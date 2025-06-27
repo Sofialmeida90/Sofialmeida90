@@ -21,7 +21,7 @@ Como culminar desse processo, desenvolvi vários projetos práticos baseado em c
 
 🔹**Projetos em Destaque:**
 
-📌 [Projeto Final: Projeto Final – Análise de E-commerce Brasileiro (Olist)]   – Em breve!  
+📌 [Projeto Final: Projeto Final – Análise de E-commerce Brasileiro (Olist)]   – https://github.com/Sofialmeida90/Projeto-Olist  
 
 A Olist é uma plataforma brasileira de e-commerce que conecta pequenos lojistas a grandes marketplaces. O projeto utiliza dados reais de cerca de 100 mil pedidos (2016–2018), incluindo informações sobre produtos, clientes, pagamentos e entregas. A base oferece amplo potencial para análise de vendas, logística e comportamento do consumidor.
 
