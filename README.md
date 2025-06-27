@@ -23,7 +23,7 @@ Ao longo da formação, trabalhei temas fundamentais como:
 Como culminar desse processo, desenvolvi vários projetos práticos baseado em conjunto de dados diversos permitindo aplicar todo o ciclo de desenvolvimento de uma análise de Business Intelligence, desde a modelação até à entrega de insights visuais.
 
 
-🔹** Projetos em Destaque:**
+🔹**Projetos em Destaque:**
 
 📌 [Projeto Final: Projeto Final – Análise de E-commerce Brasileiro (Olist)]   – Em breve!  
 
