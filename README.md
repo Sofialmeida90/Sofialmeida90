@@ -19,13 +19,14 @@ Ao longo da formação, trabalhei temas fundamentais como:
 
 Como culminar desse processo, desenvolvi vários projetos práticos baseado em conjunto de dados diversos permitindo aplicar todo o ciclo de desenvolvimento de uma análise de Business Intelligence, desde a modelação até à entrega de insights visuais.
 
-
 🔹**Projetos em Destaque:**
 
 📌 [Projeto Final: Projeto Final – Análise de E-commerce Brasileiro (Olist)]   – Em breve!  
 
 A Olist é uma plataforma brasileira de e-commerce que conecta pequenos lojistas a grandes marketplaces. O projeto utiliza dados reais de cerca de 100 mil pedidos (2016–2018), incluindo informações sobre produtos, clientes, pagamentos e entregas. A base oferece amplo potencial para análise de vendas, logística e comportamento do consumidor.
 
+Ferramentas Utilizadas: Power BI Desktop, DAX, Excel, Figma, Kaggle 
 
 🔹 **Me encontre por aqui:**  
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sofia-almeida-19906/) 💬 Quer falar comigo, não deixe de entrar em contato ...
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sofia-almeida-19906/) 
+ 💬 Quer falar comigo, não deixe de entrar em contato ...
